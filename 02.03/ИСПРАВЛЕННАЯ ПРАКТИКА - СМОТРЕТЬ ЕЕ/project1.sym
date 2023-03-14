@@ -1,0 +1,74 @@
+__Lrdata 37 FFFFFFCC DATA
+__Hrbss 37 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 8A 0 CODE
+__Birdata 3 FFFFFFCC DATA
+__Hirdata 37 FFFFFFCC DATA
+__Lirdata 37 FFFFFFCC DATA
+powerup DF 0 CODE
+__Htext 37 0
+__Ltext 37 0
+strx_copy A0 0 CODE
+__Hcode 37 0
+__Lcode 37 0
+__Hdata 115 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 37 0 XDATA
+__Hbss 37 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 37 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 8A 0 CODE
+__S0 115 0
+start1 CB 0 CODE
+__Hnvram 37 0 XDATA
+small_model 1 0
+__Lnvram 37 0 XDATA
+__Hheap 37 0 XDATA
+__Lheap 37 0 XDATA
+_main 3 0 CODE
+str_copy A0 0 CODE
+?a_main 20 0 DATA
+_exit DC 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load A0 0 CODE
+__Brbit 20 20 BITSEG
+str_load A0 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 37 0 DATA
+__Hidata 37 0 DATA
+__Lidata 37 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFCC DATA
+__Hrdata 37 FFFFFFCC DATA
+%segments
+vectors 0 E1 CODE
+rbit 0 16 BITSEG
+data 100 114 CODE
+%locals
+C:\Users\User\Desktop\ZANYAT~1.03-\02.03\2PRAKT~1\main_0.obj
+C:\Users\User\Desktop\ZANYAT~1.03-\02.03\2PRAKT~1\project1\main.c
+3 3 0 CODE
+18 6 0 CODE
+30 15 0 CODE
+31 24 0 CODE
+32 27 0 CODE
+33 2B 0 CODE
+35 3A 0 CODE
+37 41 0 CODE
+38 4B 0 CODE
+41 4D 0 CODE
+43 57 0 CODE
+44 66 0 CODE
+43 68 0 CODE
+33 74 0 CODE
+46 80 0 CODE
+47 84 0 CODE
+48 86 0 CODE
